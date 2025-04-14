@@ -21,9 +21,30 @@
 🇮🇱 **Hebrew**: שלום (Shalom)
 ...
 
-<!-- _I'm a passionate software developer focusing on..._ -->
 
-## My Skillset
+## 🚀 About Me
+
+I am a versatile Frontend Engineer with a passion for problem-solving and innovation. With over 15 years of experience in analysis, design, and development using the latest web technologies, I have successfully led technical teams across diverse geographical locations. I believe in the principle of "Leave it better than you found it," which drives me to enhance the project and collaboration.
+
+My expertise lies in programming enterprise applications and building high-traffic web applications using a full-stack approach with JavaScript, Node.js, and React. I cover everything from cloud infrastructure to intuitive user experiences, ensuring reliable APIs are in place. I am knowledgeable about various patterns, tools, and libraries that enable projects to remain on the fast track.
+
+My technical skills encompass JavaScript, Node.js, HTML/CSS, Python, GraphQL, REST, Google Cloud Platform (GCP), Linux, React, responsive web design, and data visualization. I prioritize simplicity in development, employing type, unit, end-to-end, and visual regression tests, ideally within a trunk-based workflow with pull request deployments. I am committed to continuous improvement by refactoring to enhance complexity and performance.
+
+With a Master's degree in Computer Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
+
+<!-- 
+I am a versatile Frontend Developer with a passion for problem-solving and innovation. I’ve around 10 years of experience in analysis, design and development using latest Web Technologies and worked extensively with managed technical teams, spread over different geographies.
+
+I use to program enterprise applications. I build high traffic web applications full stack in JavaScript, Node and React, from cloud infrastructure to intuitive UX, through reliable APIs.
+I know patterns, tools, libraries to keep projects on the fast track. I'm broadly skilled across Javascript, Node, Python, GraphQL, REST, GCP, Linux, React, responsive web design, and data visualization.
+I like to keep it simple with type, unit, e2e and visual regression tests, ideally through a trunk based workflow with PR deploys, refactoring mercilessly to improve complexity and performance.
+
+With a background of Masters in Computer Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
+
+_I'm a passionate software developer focusing on..._ 
+-->
+
+## 🤩 My Skillset
 
 ### Primary Skills
 
@@ -84,9 +105,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 My GitHub Stats
+## 📈 So far on GitHub:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
   </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)
