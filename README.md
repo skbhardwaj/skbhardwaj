@@ -109,10 +109,10 @@ With a Master's degree in Computer Engineering and hands-on experience in develo
 [![Profile Views](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
 
 [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/skbhardwaj)
-[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github.com/skbhardwaj)
+[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&theme=calm)](https://github.com/skbhardwaj)
 
 [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/shri-mmst)
-[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)](https://github.com/shri-mmst)
+[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&theme=calm)](https://github.com/shri-mmst)
 
 ## 🌐 Connect With Me
 
