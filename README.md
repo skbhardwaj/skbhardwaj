@@ -105,34 +105,36 @@ _I'm a passionate software developer focusing on..._
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 So far on GitHub:
+<!-- ## 📈 So far on GitHub:
 
 <p align="center">
   <a href="https://github.com/skbhardwaj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
   </a>
-</p>
+</p> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)
+-->
+
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/skbhardwaj" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
-    <img src="https://shields.io" alt="Linkedin">
-  </a>
+  <!-- <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a> -->
 </p>
 
 ## ☕ Support My Work
 
 <p align="center">
   <a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
-    <img src="https://shields.io" alt="Buy Me a Coffee">
+    <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee">
   </a>
-  <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
-    <img src="https://shields.io" alt="PayPal">
-  </a>
+  <!-- <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
+    <img src="https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal" alt="PayPal">
+  </a> -->
 </p>
