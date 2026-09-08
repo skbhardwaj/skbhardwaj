@@ -120,7 +120,7 @@ _I'm a passionate software developer focusing on..._
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/skbhardwaj" target="_blank">
+  <a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
   </a>
   <!-- <a href="mailto:your.email@example.com" target="_blank">
