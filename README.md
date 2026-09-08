@@ -23,7 +23,8 @@
 
 ## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I%27m+Shrikrishna+BHARDWAJ)](https://github.com/skbhardwaj)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I%27m+Shrikrishna+BHARDWAJ&size=14)](https://github.com/skbhardwaj)
+
 I am a versatile Frontend Engineer with a passion for problem-solving and innovation. With over 15 years of experience in analysis, design, and development using the latest web technologies, I have successfully led technical teams across diverse geographical locations. I believe in the principle of "Leave it better than you found it," which drives me to enhance the project and collaboration.
 
 My expertise lies in programming enterprise applications and building high-traffic web applications using a full-stack approach with JavaScript, Node.js, and React. I cover everything from cloud infrastructure to intuitive user experiences, ensuring reliable APIs are in place. I am knowledgeable about various patterns, tools, and libraries that enable projects to remain on the fast track.
