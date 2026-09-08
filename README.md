@@ -107,9 +107,9 @@ _I'm a passionate software developer focusing on..._
 
 ## 📈 So far on GitHub:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://github.com/skbhardwaj)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://github.com/shri-mmst)
 
 <!-- <p align="center">
   <a href="https://github.com/skbhardwaj/github-readme-stats">
