@@ -1,3 +1,5 @@
+[![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=200&amp;section=header&amp;text=Shrikrishna%20BHARDWAJ&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling)](https://github.com/skbhardwaj)
+
 ## Hello, World! 👋
 
 <!-- **Greetings in different languages:** -->
@@ -118,36 +120,34 @@ _I'm a passionate software developer focusing on..._
 
 ### 💻 GitHub Profile Stats
 
+  [![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)](https://github.com/skbhardwaj)
+  [![Profile Views](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
+ 
   [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/skbhardwaj)
   [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github.com/skbhardwaj)
 
   [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/shri-mmst)
   [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)](https://github.com/shri-mmst)
 
-  <!-- 
-  ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) 
-  -->
-
-
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
-  </a>
-  <!-- <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a> -->
-</p>
+<a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
+</a>
+<!-- <a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://shields.io" alt="Email">
+</a> -->
 
 ## ☕ Support My Work
 
-<p align="center">
-  <a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
-    <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee">
-  </a>
-  <!-- <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
-    <img src="https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal" alt="PayPal">
-  </a> -->
-</p>
+<a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
+  <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee">
+</a>
+<!-- <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
+  <img src="https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal" alt="PayPal">
+</a> -->
+
+
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/skbhardwaj)
