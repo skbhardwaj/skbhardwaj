@@ -121,19 +121,12 @@ _I'm a passionate software developer focusing on..._
   [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
   [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)
 
+  [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+  [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)
+
   <!-- 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="skbhardwaj's Github Stats" src="https://skbhardwaj-github-readme-stats.vercel.app/api/?username=skbhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="skbhardwaj's Top Languages" src="https://skbhardwaj-github-readme-stats.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/skbhardwaj/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
-      <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)" />
-    </a>
-  </p> 
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) 
+  -->
 
 
 
