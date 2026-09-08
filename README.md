@@ -114,3 +114,25 @@ _I'm a passionate software developer focusing on..._
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/skbhardwaj" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
+    <img src="https://shields.io" alt="Linkedin">
+  </a>
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
+    <img src="https://shields.io" alt="Buy Me a Coffee">
+  </a>
+  <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
+    <img src="https://shields.io" alt="PayPal">
+  </a>
+</p>
