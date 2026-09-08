@@ -33,19 +33,19 @@ With a Master's degree in Computer Engineering and hands-on experience in develo
 
 ### 🔥 Streak Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://github.com/skbhardwaj)
+[![Streaks (skbhardwaj)](https://streak-stats.demolab.com/?user=skbhardwaj)](https://github.com/skbhardwaj)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://github.com/shri-mmst)
+[![Streaks (shri-mmst)](https://streak-stats.demolab.com?user=shri-mmst)](https://github.com/shri-mmst)
 
 ### 💻 GitHub Profile Stats
 
-[![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)](https://github.com/skbhardwaj)
-[![Profile Views](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
+[![Profile Views (skbhardwaj)](https://komarev.com/ghpvc/?username=skbhardwaj)](https://github.com/skbhardwaj)
+[![Profile Views (shri-mmst)](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
 
-[![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api?username=skbhardwaj&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm&custom_title=Shrikrishna's+Stats)](https://github.com/skbhardwaj)
-[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&theme=calm)](https://github.com/skbhardwaj)
+[![GitHub stats (skbhardwaj)](https://github-stats-extended.vercel.app/api?username=skbhardwaj&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm)](https://github.com/skbhardwaj)
+[![Top Languages (skbhardwaj)](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&theme=calm)](https://github.com/skbhardwaj)
 
-[![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api?username=shri-mmst&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm&custom_title=Shrikrishna's+Stats)](https://github.com/shri-mmst)
-[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&theme=calm)](https://github.com/shri-mmst)
+[![GitHub stats (shri-mmst)](https://github-stats-extended.vercel.app/api?username=shri-mmst&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm)](https://github.com/shri-mmst)
+[![Top Languages (shri-mmst)](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&theme=calm)](https://github.com/shri-mmst)
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/skbhardwaj)
