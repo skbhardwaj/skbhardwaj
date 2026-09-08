@@ -122,7 +122,7 @@ With a Master's degree in Computer Engineering and hands-on experience in develo
 ## ☕ Support My Work
 
 [![Buy Me a Coffee](https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/skbhardwaj)
-[![PayPal](https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal)](https://paypal.me/ShrikrishnaBHARDWAJ)
+<!-- [![PayPal](https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal)](https://paypal.me/ShrikrishnaBHARDWAJ) -->
 
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/skbhardwaj)
