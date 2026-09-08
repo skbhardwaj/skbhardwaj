@@ -1,12 +1,6 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=200&amp;section=header&amp;text=Shrikrishna%20BHARDWAJ&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling)](https://github.com/skbhardwaj)
+[![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=200&amp;section=header&amp;text=Hi+there+👋!&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling)](https://github.com/skbhardwaj)
 
-<a href="https://github.com/skbhardwaj">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=200&amp;section=header&amp;text=Shrikrishna%20BHARDWAJ&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling" alt="header"/>
-</a>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I%27m+Shrikrishna+BHARDWAJ&size=14"/>
-</h3>
+![Welcome](https://readme-typing-svg.demolab.com/?lines=I%27m+Shrikrishna+BHARDWAJ)
 
 <p align="center">
   <!-- <a href="">Website</a> • -->
@@ -52,7 +46,5 @@ With a Master's degree in Computer Engineering and hands-on experience in develo
 
 [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/shri-mmst)
 [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&theme=calm)](https://github.com/shri-mmst)
-
----
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/skbhardwaj)
