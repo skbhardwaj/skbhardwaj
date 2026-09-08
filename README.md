@@ -2,22 +2,18 @@
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&pause=1000&center=true&vCenter=true&width=210&height=20&lines=I'm+Shrikrishna+BHARDWAJ)
 
-<!-- <p align="center"> -->
+<p align="center">
   <!-- <a href="">Website</a> • -->
   <a href="https://github.com/skbhardwaj">GitHub</a> •
   <a href="https://www.linkedin.com/in/skbhardwaj">LinkedIn</a>
   <!-- <a href="https://github.com/shri-mmst">GitHub</a> -->
-<!-- </p> -->
+</p>
 
-<!-- <p align="center"> -->
-  <a href="https://github.com/skbhardwaj">
-    <img src="https://img.shields.io/github/followers/skbhardwaj?label=Follow&style=social" alt="follow on github"/>
-  </a>
-  •
+<p align="center">
   <a href="https://buymeacoffee.com/skbhardwaj">
     <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee"/>
   </a>
-<!-- </p> -->
+</p>
 
 ---
 
