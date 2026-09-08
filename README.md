@@ -1,6 +1,10 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=200&amp;section=header&amp;text=Hi+there+👋!&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling)](https://github.com/skbhardwaj)
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&pause=1000&center=true&vCenter=true&width=210&height=20&lines=I'm+Shrikrishna+BHARDWAJ)
+<!-- ![Welcome](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=100&size=16&pause=1000&center=true&vCenter=true&width=240&height=24&lines=I%27m+Shrikrishna+BHARDWAJ) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=100&size=16&pause=1000&center=true&vCenter=true&width=240&height=24&lines=I%27m+Shrikrishna+BHARDWAJ" alt="welcome" />
+</p>
 
 <p align="center">
   <!-- <a href="">Website</a> • -->
