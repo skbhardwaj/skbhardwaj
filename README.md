@@ -105,16 +105,21 @@ _I'm a passionate software developer focusing on..._
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- ## 📈 So far on GitHub:
+## 📈 So far on GitHub:
 
-<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://git.io/streak-stats)
+
+<!-- <p align="center">
   <a href="https://github.com/skbhardwaj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)" />
   </a>
 </p> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)
--->
+![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) -->
+
 
 
 ## 🌐 Connect With Me
