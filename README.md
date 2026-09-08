@@ -108,7 +108,7 @@ _I'm a passionate software developer focusing on..._
 ## 📈 So far on GitHub:
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/skbhardwaj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
   </a>
 </p>
