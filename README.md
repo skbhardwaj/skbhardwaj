@@ -2,8 +2,6 @@
 
 ## Hello, World! 👋
 
-<!-- **Greetings in different languages:** -->
-
 🌎 **English**: Hello
 🇮🇳 **Hindi**: नमस्ते (Namaste)
 🇫🇷 **French**: Bonjour
@@ -23,11 +21,9 @@
 🇮🇱 **Hebrew**: שלום (Shalom)
 ...
 
-
 ## 🚀 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I%27m+Shrikrishna+BHARDWAJ)](https://github.com/skbhardwaj)
-
 I am a versatile Frontend Engineer with a passion for problem-solving and innovation. With over 15 years of experience in analysis, design, and development using the latest web technologies, I have successfully led technical teams across diverse geographical locations. I believe in the principle of "Leave it better than you found it," which drives me to enhance the project and collaboration.
 
 My expertise lies in programming enterprise applications and building high-traffic web applications using a full-stack approach with JavaScript, Node.js, and React. I cover everything from cloud infrastructure to intuitive user experiences, ensuring reliable APIs are in place. I am knowledgeable about various patterns, tools, and libraries that enable projects to remain on the fast track.
@@ -35,18 +31,6 @@ My expertise lies in programming enterprise applications and building high-traff
 My technical skills encompass JavaScript, Node.js, HTML/CSS, Python, GraphQL, REST, Google Cloud Platform (GCP), Linux, React, responsive web design, and data visualization. I prioritize simplicity in development, employing type, unit, end-to-end, and visual regression tests, ideally within a trunk-based workflow with pull request deployments. I am committed to continuous improvement by refactoring to enhance complexity and performance.
 
 With a Master's degree in Computer Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
-
-<!-- 
-I am a versatile Frontend Developer with a passion for problem-solving and innovation. I’ve around 10 years of experience in analysis, design and development using latest Web Technologies and worked extensively with managed technical teams, spread over different geographies.
-
-I use to program enterprise applications. I build high traffic web applications full stack in JavaScript, Node and React, from cloud infrastructure to intuitive UX, through reliable APIs.
-I know patterns, tools, libraries to keep projects on the fast track. I'm broadly skilled across Javascript, Node, Python, GraphQL, REST, GCP, Linux, React, responsive web design, and data visualization.
-I like to keep it simple with type, unit, e2e and visual regression tests, ideally through a trunk based workflow with PR deploys, refactoring mercilessly to improve complexity and performance.
-
-With a background of Masters in Computer Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
-
-_I'm a passionate software developer focusing on..._ 
--->
 
 ## 🤩 My Skillset
 
@@ -117,42 +101,26 @@ _I'm a passionate software developer focusing on..._
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://github.com/shri-mmst)
 
-
 ### 💻 GitHub Profile Stats
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)](https://github.com/skbhardwaj)
-  [![Profile Views](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
- 
-  [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/skbhardwaj)
-  [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github.com/skbhardwaj)
+[![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj)](https://github.com/skbhardwaj)
+[![Profile Views](https://komarev.com/ghpvc/?username=shri-mmst)](https://github.com/shri-mmst)
 
-  [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/shri-mmst)
-  [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)](https://github.com/shri-mmst)
+[![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/skbhardwaj)
+[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github.com/skbhardwaj)
 
+[![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=shri-mmst&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/shri-mmst)
+[![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shri-mmst&langs_count=4&theme=calm)](https://github.com/shri-mmst)
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/skbhardwaj)
-
-<a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
-</a>
-<!-- <a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://shields.io" alt="Email">
-</a> -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
 
 ## ☕ Support My Work
 
 [![Buy Me a Coffee](https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/skbhardwaj)
-
-
-<a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
-  <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee">
-</a>
-<!-- <a href="https://paypal.me/ShrikrishnaBHARDWAJ" target="_blank">
-  <img src="https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal" alt="PayPal">
-</a> -->
-
+[![PayPal](https://shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badgePayPal)](https://paypal.me/ShrikrishnaBHARDWAJ)
 
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)](https://github.com/skbhardwaj)
