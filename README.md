@@ -132,6 +132,8 @@ _I'm a passionate software developer focusing on..._
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/skbhardwaj)
+
 <a href="https://www.linkedin.com/in/skbhardwaj/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn">
 </a>
@@ -140,6 +142,9 @@ _I'm a passionate software developer focusing on..._
 </a> -->
 
 ## ☕ Support My Work
+
+[![Buy Me a Coffee](https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/skbhardwaj)
+
 
 <a href="https://buymeacoffee.com/skbhardwaj" target="_blank">
   <img src="https://shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me a Coffee">
