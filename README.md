@@ -24,6 +24,8 @@
 
 ## 🚀 About Me
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I%27m+Shrikrishna+BHARDWAJ)](https://github.com/skbhardwaj)
+
 I am a versatile Frontend Engineer with a passion for problem-solving and innovation. With over 15 years of experience in analysis, design, and development using the latest web technologies, I have successfully led technical teams across diverse geographical locations. I believe in the principle of "Leave it better than you found it," which drives me to enhance the project and collaboration.
 
 My expertise lies in programming enterprise applications and building high-traffic web applications using a full-stack approach with JavaScript, Node.js, and React. I cover everything from cloud infrastructure to intuitive user experiences, ensuring reliable APIs are in place. I am knowledgeable about various patterns, tools, and libraries that enable projects to remain on the fast track.
@@ -105,20 +107,35 @@ _I'm a passionate software developer focusing on..._
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 So far on GitHub:
+## 📊 Stats and Activity
+
+### 🔥 Streak Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://github.com/skbhardwaj)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shri-mmst)](https://github.com/shri-mmst)
 
-<!-- <p align="center">
-  <a href="https://github.com/skbhardwaj/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)" />
-  </a>
-</p> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) -->
+### 💻 GitHub Profile Stats
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shrikrishna's Github Stats" src="https://skbhardwaj-github-readme-stats.vercel.app/api/?username=skbhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shrikrishna's Top Languages" src="https://skbhardwaj-github-readme-stats.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+  [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="skbhardwaj's Github Stats" src="https://skbhardwaj-github-readme-stats.vercel.app/api/?username=skbhardwaj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="skbhardwaj's Top Languages" src="https://skbhardwaj-github-readme-stats.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/skbhardwaj/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=skbhardwaj&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
+      <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=skbhardwaj)](https://git.io/streak-stats)" />
+    </a>
+  </p> 
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=skbhardwaj) -->
 
 
 
