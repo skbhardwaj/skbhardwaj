@@ -119,7 +119,6 @@ _I'm a passionate software developer focusing on..._
 ### 💻 GitHub Profile Stats
 
   [![Shrikrishna's GitHub stats](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=skbhardwaj&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shrikrishna's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
   [![Shrikrishna's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs/?username=skbhardwaj&langs_count=4&theme=calm)
 
   <!-- 
