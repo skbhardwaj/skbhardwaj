@@ -5,7 +5,7 @@
 </a>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I%27m+Shrikrishna+BHARDWAJ&size=14"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I%27m+Shrikrishna+BHARDWAJ&size=14"/>
 </h3>
 
 <p align="center">
